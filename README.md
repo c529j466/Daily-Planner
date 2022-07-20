@@ -12,7 +12,7 @@ To install the daily scheduler, I used the given html and css documents to creat
 ## Usage
 
     ```md
-    ![Screenshot Daily Scheduler](images/Screenshot5.png)
+    ![Screenshot Daily Scheduler](./Develop/images/Screenshot5.png)
     ```
     
 
